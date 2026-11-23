@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "description": "Tells Node.js that the files in frontend/js use import/export, so database/setup.js can read js/seed-data.js. Browsers ignore this file.",
+  "type": "module"
+}
